@@ -40,7 +40,7 @@ Untuk memulai, ikuti langkah-langkah dibawah ini :
 
 Clone this repository
 
-git clone https://github.com/Ardywsptr/todoapps/.git
+git clone 
 
 cd todoapps
 
