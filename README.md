@@ -40,20 +40,13 @@ Untuk memulai, ikuti langkah-langkah dibawah ini :
 
 Clone this repository
 
-git clone 
+git clone https://github.com/abdul-lambada/Todo-Apps.git
 
 cd todoapps
 
 Hapus cache pada browser
 
 jalankan file index.html
-
-
-
-
-Jika ada pertanyaan atau issue, kunjungi new issue
-
-Jika dokumentasi ini bermanfaat mari berteman dengan menekan tombol follow pada profile ini ☺☺☺
 
 
 Big Thanks for Dicoding
